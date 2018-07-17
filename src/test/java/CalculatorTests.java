@@ -15,7 +15,7 @@ public class CalculatorTests {
 
 
     @Test
-    public void TestSubtruction() {
+    public void TestSubtraction() {
         Subtraction subtraction = new Subtraction();
         subtraction.setFn(101);
         subtraction.setSn(22);
